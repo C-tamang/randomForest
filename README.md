@@ -10,11 +10,11 @@ Dataset is from the UCI Machine Learning Repository.
 - Sklearn Ensemble
   - RandomForestClassifier
 - Sklearn Model Selection
-- - GridSearchCV
-- - train_test_split
+  - GridSearchCV
+  - train_test_split
 - Sklearn Metrics
-- - confusion_matrix
-- - f1_score
-- - accuracy_score
-- - precision_score
-- - recall_score
+  - confusion_matrix
+  - f1_score
+  - accuracy_score
+  - precision_score
+  - recall_score
