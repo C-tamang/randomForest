@@ -8,7 +8,7 @@ Dataset is from the UCI Machine Learning Repository.
 - Pandas
 - Seaborn
 - Sklearn Ensemble
-- - RandomForestClassifier
+  - RandomForestClassifier
 - Sklearn Model Selection
 - - GridSearchCV
 - - train_test_split
